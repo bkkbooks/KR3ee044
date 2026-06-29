@@ -1,0 +1,1506 @@
+canonical_identifier: bkk:krp/KR3ee044/v1
+canonical_location: https://kanripo.org/bkk/KR3ee044/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 身經通考
+  identifiers:
+    krp: KR3ee044
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee044.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee044_000.yaml, hash: 'sha256:5e5f3f6451353015bb7f1c62c000e28a5a4d94dc0ad8b3400a2a171fa02e9f28'}
+  - {seq: 1, filename: KR3ee044_001.yaml, hash: 'sha256:1586eb03fe434359b43a5a877638202c6b661facbe6b736f685f54d421dc6314'}
+  - {seq: 0, filename: KR3ee044_000.yaml, hash: 'sha256:5e5f3f6451353015bb7f1c62c000e28a5a4d94dc0ad8b3400a2a171fa02e9f28'}
+  - {seq: 2, filename: KR3ee044_002.yaml, hash: 'sha256:ba13699c075f57268e0cb0e3cd78d34d1a6b414a119b202e209dc59b7765ebf6'}
+  - {seq: 3, filename: KR3ee044_003.yaml, hash: 'sha256:def6919ca61d6206f2300d1996d1178c2eaaf9dcd09922056d280cf53d327edd'}
+  - {seq: 4, filename: KR3ee044_004.yaml, hash: 'sha256:718a99e5796650af42a7b7aff4242b666fa28bca714fab061eb27e96f091bcba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee044_000.markers.yaml, hash: 'sha256:789686df0afed2f9600d8c514de19b79fc1d603f58c6888710fde954e89b9eb0'}
+  - {seq: 1, role: markers, filename: assets/KR3ee044_001.markers.yaml, hash: 'sha256:e3695ea1a53687b99ce9f3b38e16b1511f7d6b15e47cd8a8f536d1e544b73541'}
+  - {seq: 2, role: markers, filename: assets/KR3ee044_002.markers.yaml, hash: 'sha256:ffc07cb249be1e857e003d079a94937a4307c81d3099a1ffc80a85e93d0c6f9b'}
+  - {seq: 3, role: markers, filename: assets/KR3ee044_003.markers.yaml, hash: 'sha256:8f67a4c75aca621b6dfe35757918068f444d3d14b4403144b6bc26a9f26b23a7'}
+  - {seq: 4, role: markers, filename: assets/KR3ee044_004.markers.yaml, hash: 'sha256:eccc3e3d941109b6f91b9b25fc2b98e3de1bd7307ed31c6a270fa4dacbf6da00'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 619
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d4.h1s1
+    span:
+    - front
+    - 619
+    - 1133
+  label: 通考後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d5.h1s1
+    span:
+    - front
+    - 1133
+    - 2528
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d6.h1s1
+    span:
+    - front
+    - 2528
+    - 3068
+  label: 身經後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 889
+  label: 身經通考敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee044_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9969
+  label: 身經通考卷一答問
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee044_jc_001-d7d2
+    span:
+    - body
+    - 8
+    - 2055
+  label: 身經答問一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee044_jc_001-d7d3
+    span:
+    - body
+    - 2055
+    - 2536
+  label: 身經答問二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee044_jc_001-d7d4
+    span:
+    - body
+    - 2536
+    - 4358
+  label: 身經答問三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee044_jc_001-d7d5
+    span:
+    - body
+    - 4358
+    - 9969
+  label: 身經答問四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5890
+  label: 身經答問五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d8d30
+    span:
+    - body
+    - 948
+    - 2412
+  label: 身經答問六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d8d31
+    span:
+    - body
+    - 2412
+    - 3901
+  label: 身經答問七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d8d32
+    span:
+    - body
+    - 3901
+    - 4883
+  label: 身經答問八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d8d33
+    span:
+    - body
+    - 4883
+    - 5890
+  label: 身經答問九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d9.h1s1
+    span:
+    - body
+    - 5890
+    - 11089
+  label: 身經答問十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d9d86
+    span:
+    - body
+    - 7439
+    - 9347
+  label: 身經答問十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d9d87
+    span:
+    - body
+    - 9347
+    - 9769
+  label: 身經答問十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d9d88
+    span:
+    - body
+    - 9769
+    - 10776
+  label: 身經答問十三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee044_jc_000-d9d89
+    span:
+    - body
+    - 10776
+    - 11089
+  label: 身經答問十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10.h1s1
+    span:
+    - body
+    - 0
+    - 14364
+  label: 身經通考卷二圖說
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d2
+    span:
+    - body
+    - 8
+    - 399
+  label: 圖說小敘
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d3
+    span:
+    - body
+    - 399
+    - 586
+  label: 五臟六腑位次
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d4
+    span:
+    - body
+    - 586
+    - 757
+  label: 肺臟圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d5
+    span:
+    - body
+    - 757
+    - 817
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d6
+    span:
+    - body
+    - 817
+    - 985
+  label: 大腸腑圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d7
+    span:
+    - body
+    - 985
+    - 1082
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d8
+    span:
+    - body
+    - 1082
+    - 1856
+  label: 心藏圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d9
+    span:
+    - body
+    - 1856
+    - 1898
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d10
+    span:
+    - body
+    - 1898
+    - 2078
+  label: 小腸腑圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d11
+    span:
+    - body
+    - 2078
+    - 2163
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d12
+    span:
+    - body
+    - 2163
+    - 3174
+  label: 脾臟圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d13
+    span:
+    - body
+    - 3174
+    - 3332
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d14
+    span:
+    - body
+    - 3332
+    - 3914
+  label: 胃腑圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d15
+    span:
+    - body
+    - 3914
+    - 4015
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d16
+    span:
+    - body
+    - 4015
+    - 4875
+  label: 肝臟圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d17
+    span:
+    - body
+    - 4875
+    - 5084
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d18
+    span:
+    - body
+    - 5084
+    - 5245
+  label: 膽腑圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d19
+    span:
+    - body
+    - 5245
+    - 5316
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d20
+    span:
+    - body
+    - 5316
+    - 5868
+  label: 腎臟圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d21
+    span:
+    - body
+    - 5868
+    - 5991
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d22
+    span:
+    - body
+    - 5991
+    - 6222
+  label: 膀胱腑圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d23
+    span:
+    - body
+    - 6222
+    - 6293
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d24
+    span:
+    - body
+    - 6293
+    - 6411
+  label: 三焦圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d25
+    span:
+    - body
+    - 6411
+    - 6519
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d26
+    span:
+    - body
+    - 6519
+    - 6637
+  label: 心包絡經說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d27
+    span:
+    - body
+    - 6637
+    - 6715
+  label: 應用藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d28
+    span:
+    - body
+    - 6715
+    - 6993
+  label: 奇經八脈圖說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d29
+    span:
+    - body
+    - 6993
+    - 7496
+  label: 督任二脈導引說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d30
+    span:
+    - body
+    - 7496
+    - 7875
+  label: 經脈圖說附經絡配四時格
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d31
+    span:
+    - body
+    - 7875
+    - 7932
+  label: 經絡配四時格天非純陽亦有三陰天以陽生陰長而為春夏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d32
+    span:
+    - body
+    - 7932
+    - 8276
+  label: 圖說二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d33
+    span:
+    - body
+    - 8276
+    - 9216
+  label: 內形圖說附五臟配五行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d34
+    span:
+    - body
+    - 9216
+    - 9715
+  label: 臟腑配五行格
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d35
+    span:
+    - body
+    - 9715
+    - 11042
+  label: 臟腑本輸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d36
+    span:
+    - body
+    - 11042
+    - 11535
+  label: 望色附
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d37
+    span:
+    - body
+    - 11535
+    - 11825
+  label: 聞聲附
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d38
+    span:
+    - body
+    - 11825
+    - 12515
+  label: 問症附
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d39
+    span:
+    - body
+    - 12515
+    - 14217
+  label: 汗吐下三法附
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee044_jc_002-d10d40
+    span:
+    - body
+    - 14217
+    - 14364
+  label: 服藥吉日
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11.h1s1
+    span:
+    - body
+    - 0
+    - 25961
+  label: 身經通考卷三脈說
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d8
+    span:
+    - body
+    - 38
+    - 456
+  label: 何謂脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d9
+    span:
+    - body
+    - 456
+    - 871
+  label: 何謂寸關尺三部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d10
+    span:
+    - body
+    - 871
+    - 913
+  label: 何謂反關脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d11
+    span:
+    - body
+    - 913
+    - 1072
+  label: 何謂看脈之時
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d12
+    span:
+    - body
+    - 1072
+    - 1818
+  label: 何謂四時之脈附圖說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d13
+    span:
+    - body
+    - 1818
+    - 1986
+  label: 附圖說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d14
+    span:
+    - body
+    - 1986
+    - 2519
+  label: 何謂流轉晝夜之脈附圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d15
+    span:
+    - body
+    - 2519
+    - 2699
+  label: 何謂無病之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d16
+    span:
+    - body
+    - 2699
+    - 4554
+  label: 何謂有病之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d17
+    span:
+    - body
+    - 4554
+    - 5499
+  label: 何謂病根之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d18
+    span:
+    - body
+    - 5499
+    - 6212
+  label: 何謂逆順之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d19
+    span:
+    - body
+    - 6212
+    - 7164
+  label: 何謂病在內在外在左在右在上在中在下之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d20
+    span:
+    - body
+    - 7164
+    - 8167
+  label: 何謂傷風之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d21
+    span:
+    - body
+    - 8167
+    - 8806
+  label: 何謂傷暑之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d22
+    span:
+    - body
+    - 8806
+    - 9128
+  label: 何謂傷濕之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d23
+    span:
+    - body
+    - 9128
+    - 10501
+  label: 何謂傷寒之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d24
+    span:
+    - body
+    - 10501
+    - 10787
+  label: 何謂傷酒之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d25
+    span:
+    - body
+    - 10787
+    - 11096
+  label: 何謂傷色之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d26
+    span:
+    - body
+    - 11096
+    - 11200
+  label: 何謂傷財之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d27
+    span:
+    - body
+    - 11200
+    - 11795
+  label: 何謂傷氣之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d28
+    span:
+    - body
+    - 11795
+    - 12898
+  label: 何謂癆瘵之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d29
+    span:
+    - body
+    - 12898
+    - 13494
+  label: 何謂有痰之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d30
+    span:
+    - body
+    - 13494
+    - 14430
+  label: 何謂失血之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d31
+    span:
+    - body
+    - 14430
+    - 15894
+  label: 何謂咳嗽之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d32
+    span:
+    - body
+    - 15894
+    - 16226
+  label: 何謂男女不同之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d33
+    span:
+    - body
+    - 16226
+    - 16450
+  label: 何謂邪祟之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d34
+    span:
+    - body
+    - 16450
+    - 16615
+  label: 何謂諸脈相類之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d35
+    span:
+    - body
+    - 16615
+    - 18057
+  label: 何謂奇經之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d36
+    span:
+    - body
+    - 18057
+    - 19215
+  label: 何謂合氣運之脈附圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d37
+    span:
+    - body
+    - 19215
+    - 20545
+  label: 何謂運氣天和不應之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d38
+    span:
+    - body
+    - 20545
+    - 21089
+  label: 何謂內經之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d39
+    span:
+    - body
+    - 21089
+    - 22905
+  label: 何謂王叔和二十六脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d40
+    span:
+    - body
+    - 22905
+    - 23209
+  label: 何謂從症而不從脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d41
+    span:
+    - body
+    - 23209
+    - 23750
+  label: 何謂瘡瘍之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d42
+    span:
+    - body
+    - 23750
+    - 23835
+  label: 何謂小兒之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d43
+    span:
+    - body
+    - 23835
+    - 24152
+  label: 何謂將死之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d44
+    span:
+    - body
+    - 24152
+    - 25586
+  label: 何謂心腹疼痛之脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee044_jc_003-d11d45
+    span:
+    - body
+    - 25586
+    - 25961
+  label: 何謂郁病之脈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12.h1s1
+    span:
+    - body
+    - 0
+    - 38300
+  label: 身經通考卷四方選
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d2
+    span:
+    - body
+    - 8
+    - 792
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d3
+    span:
+    - body
+    - 792
+    - 2137
+  label: 傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d4
+    span:
+    - body
+    - 2137
+    - 2712
+  label: 感冒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d5
+    span:
+    - body
+    - 2712
+    - 3405
+  label: 瘟疫門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d6
+    span:
+    - body
+    - 3405
+    - 3613
+  label: 陰症門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d7
+    span:
+    - body
+    - 3613
+    - 4406
+  label: 暑治門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d8
+    span:
+    - body
+    - 4406
+    - 4638
+  label: 濕治門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d9
+    span:
+    - body
+    - 4638
+    - 5539
+  label: 痰火門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d10
+    span:
+    - body
+    - 5539
+    - 7275
+  label: 氣分門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d11
+    span:
+    - body
+    - 7275
+    - 8489
+  label: 血分門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d12
+    span:
+    - body
+    - 8489
+    - 10693
+  label: 咳嗽門附哮喘嘔逆
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d13
+    span:
+    - body
+    - 10693
+    - 12034
+  label: 脾胃門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d14
+    span:
+    - body
+    - 12034
+    - 12714
+  label: 噎膈翻胃門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d15
+    span:
+    - body
+    - 12714
+    - 13045
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d16
+    span:
+    - body
+    - 13045
+    - 13199
+  label: 痧症門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d17
+    span:
+    - body
+    - 13199
+    - 14983
+  label: 心腹門附嘈雜等症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d18
+    span:
+    - body
+    - 14983
+    - 15602
+  label: 瘧疾門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d19
+    span:
+    - body
+    - 15602
+    - 16298
+  label: 痢疾門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d20
+    span:
+    - body
+    - 16298
+    - 16677
+  label: 瀉泄門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d21
+    span:
+    - body
+    - 16677
+    - 16989
+  label: 鬱症門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d22
+    span:
+    - body
+    - 16989
+    - 17534
+  label: 痞積門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d23
+    span:
+    - body
+    - 17534
+    - 18237
+  label: 蟲脹門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d24
+    span:
+    - body
+    - 18237
+    - 18748
+  label: 水腫門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d25
+    span:
+    - body
+    - 18748
+    - 19249
+  label: 驚悸怔忡門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d26
+    span:
+    - body
+    - 19249
+    - 21692
+  label: 癆瘵門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d27
+    span:
+    - body
+    - 21692
+    - 24189
+  label: 補益門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d28
+    span:
+    - body
+    - 24189
+    - 25666
+  label: 種子門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d29
+    span:
+    - body
+    - 25666
+    - 25924
+  label: 眩暈門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d30
+    span:
+    - body
+    - 25924
+    - 26542
+  label: 癲癇門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d31
+    span:
+    - body
+    - 26542
+    - 27059
+  label: 頭痛門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d32
+    span:
+    - body
+    - 27059
+    - 27467
+  label: 腰痛門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d33
+    span:
+    - body
+    - 27467
+    - 27829
+  label: 腳膝門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d34
+    span:
+    - body
+    - 27829
+    - 28501
+  label: 風痹門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d35
+    span:
+    - body
+    - 28501
+    - 28623
+  label: 汗門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d36
+    span:
+    - body
+    - 28623
+    - 28812
+  label: 消渴門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d37
+    span:
+    - body
+    - 28812
+    - 29267
+  label: 耳疾門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d38
+    span:
+    - body
+    - 29267
+    - 30054
+  label: 眼病門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d39
+    span:
+    - body
+    - 30054
+    - 30472
+  label: 唇齒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d40
+    span:
+    - body
+    - 30472
+    - 30951
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d41
+    span:
+    - body
+    - 30951
+    - 31542
+  label: 鬚髮門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d42
+    span:
+    - body
+    - 31542
+    - 31957
+  label: 諸蟲門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d43
+    span:
+    - body
+    - 31957
+    - 32113
+  label: 遺精淋濁門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d44
+    span:
+    - body
+    - 32113
+    - 32381
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d45
+    span:
+    - body
+    - 32381
+    - 32573
+  label: 二便門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d46
+    span:
+    - body
+    - 32573
+    - 32922
+  label: 痔漏門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d47
+    span:
+    - body
+    - 32922
+    - 35741
+  label: 婦人門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee044_jc_004-d12d48
+    span:
+    - body
+    - 35741
+    - 38300
+  label: 小兒門
+  type: section
+  level: 2
+hash: sha256:98a5dbac4644a5f1b6221631029f77cc09b0d3915798058c25b1ea189f8dfb49
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
